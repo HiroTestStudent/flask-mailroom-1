@@ -1,1 +1,1 @@
-web: python main.py
+web: guicorn main.py
